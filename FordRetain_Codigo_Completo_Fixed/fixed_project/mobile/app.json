@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "FordRetain",
+    "slug": "fordretain",
+    "scheme": "fordretain",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "android": {
+      "package": "com.fordretain.app",
+      "permissions": [
+        "NOTIFICATIONS"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.fordretain.app"
+    },
+    "extra": {
+      "apiUrlWeb": "http://localhost:3001",
+      "apiUrlAndroidEmulator": "http://10.0.2.2:3001"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

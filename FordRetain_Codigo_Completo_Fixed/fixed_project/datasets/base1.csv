@@ -1,0 +1,6 @@
+customer_id,age,region,car_model,payment_type,purchase_channel,brand_history,profile
+1,34,Sudeste,Ranger,Financiamento,Concessionaria,"Ja teve outro Ford","Cliente Fiel"
+2,29,Sul,Territory,A vista,"Site Ford","Primeiro veiculo Ford","Cliente Economico"
+3,47,Nordeste,Transit,Financiamento,Concessionaria,"Cliente frotista","Cliente Esquecido"
+4,38,Centro-Oeste,Bronco,Assinatura,Marketplace,"Ja teve outro Ford","Cliente de Abandono"
+5,41,Sudeste,Maverick,Consorcio,Concessionaria,"Primeiro veiculo Ford","Cliente Economico"

@@ -1,0 +1,3 @@
+customer_id,age,region,car_model,payment_type,purchase_channel,brand_history
+6,30,Sudeste,Ranger,Financiamento,Concessionaria,"Ja teve outro Ford"
+7,27,Norte,Ranger,A vista,"Site Ford","Primeiro veiculo Ford"
